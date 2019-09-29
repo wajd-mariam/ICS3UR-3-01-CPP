@@ -5,7 +5,7 @@
 // This program calculates the sum of two numbers
 
 #include <iostream>
-#include <iomanip>
+
 // This program collects two numbers from the user and adds them together
 
 int main() {
